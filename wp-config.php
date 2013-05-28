@@ -19,13 +19,13 @@
 define('DB_NAME', 'C291728_bancaynegocios');//define('DB_NAME', 'wordpress');
 
 /** MySQL database username */
-define('DB_USER', 'C291728_byn');//define('DB_USER', 'root');
+define('DB_USER', 'icordoba');//'C291728_byn');//define('DB_USER', 'root');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'Banca2013');//define('DB_PASSWORD', '435389');
+define('DB_PASSWORD', 'Es0KLQPy');//'Banca2013');//define('DB_PASSWORD', '435389');
 
 /** MySQL hostname */
-define('DB_HOST', 'mysql1009.ixwebhosting.com');
+define('DB_HOST', 'localhost');//'mysql1009.ixwebhosting.com');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
